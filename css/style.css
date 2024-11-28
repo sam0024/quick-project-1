@@ -180,10 +180,11 @@ header {
 }
 .text {
 	font-size: 14px;
-	color: #fff;
+	color: #7CC3FF;
 }
 .text span {
 	font-weight: bold;
 	letter-spacing: 3px;
+	color: #fff;
 }
 /*footer end*/
